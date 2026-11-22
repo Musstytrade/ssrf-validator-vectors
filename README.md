@@ -104,3 +104,8 @@ Chromium · no independent third-party audit.
 ## Contributing
 
 New vectors are welcome as issues or pull requests: one line, the URL and why it must be refused.
+
+## Licence
+
+MIT (see `LICENSE`) for the files in this repository only. Egress Guard Kit is a separate, paid product under its own
+licence and is not included here.
